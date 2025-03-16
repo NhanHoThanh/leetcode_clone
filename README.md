@@ -38,7 +38,7 @@
   - `500 Internal Server Error`: If there is an issue with the server.
 
 
-  #### GET localhost:8080/test/sum
+#### GET localhost:8080/test/sum
 
 - **Description**: For the multi-language support, in development
 - **Request Body**:
